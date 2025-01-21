@@ -2,5 +2,4 @@
 
 These are some pictures of CinemaTick client
 
-
-![Uploading image.png…]()
+![Homepage](src/images/man-hinh-lien-quan/homepage.png)
