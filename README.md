@@ -3,4 +3,4 @@
 These are some pictures of CinemaTick client
 
 
-![Uploading image.png…]()
+![Màn Hình Chính] (src/images/Màn Hình Liên Quan/err.png)
