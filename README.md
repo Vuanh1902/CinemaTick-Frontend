@@ -1,7 +1,5 @@
 # CinemaTick Frontend
 
-These are some pictures of CinemaTick client
+## These are some pictures of CinemaTick client
 
-![Homepage](src/images/Màn hình liên quan/homepage.png)
-
-
+![Homepage](src/images/man-hinh-lien-quan/homepage.png)
